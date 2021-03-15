@@ -14,5 +14,5 @@
 <details>
   <summary>The Upside Down</summary>
   
-  <img src="https://kyza.github.io/Kyza/mick_rory.webp" />
+  <img src="/mick_rory.webp" />
 </details>
