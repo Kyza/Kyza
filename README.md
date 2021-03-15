@@ -10,3 +10,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin?username=Kyza&repo=ittai&theme=dark" />
   </a>
 </p>
+
+<details>
+  <summary>The Upside Down</summary>
+  
+  <img src="https://kyza.github.io/Kyza/mick_rory.webp" />
+</details>
