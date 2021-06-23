@@ -31,6 +31,9 @@
   <a href="https://github.com/Kyza/Khub">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=Kyza&repo=Khub&theme=dark" />
   </a>
+  <a href="https://github.com/Kyza/discord-devtools-filters">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kyza&repo=discord-devtools-filters&theme=dark" />
+  </a>
 </p>
 
 <h1 align="center">Other Cool Repos</h1>
