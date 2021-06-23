@@ -1,7 +1,7 @@
 <h1 align="center">Welcome</h1>
 
 <p align="center">
-  <a href="https://discord.gg/c9ESSur"><img src="https://shields.io/discord/459014303224168449?label=discord&logo=discord&color=7289da" /></a>
+<!--   <a href="https://discord.gg/c9ESSur"><img src="https://shields.io/discord/459014303224168449?label=discord&logo=discord&color=7289da" /></a> -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=Kyza.Kyza" />
 </p>
 
