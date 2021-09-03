@@ -13,8 +13,11 @@
 <h1 align="center">My Cool Repos</h1>
 
 <p align="center">
-  <a href="https://github.com/Kyza/bdbuilder">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kyza&repo=bdbuilder&theme=dark" />
+  <a href="https://github.com/Kyza/nests">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kyza&repo=nests&theme=dark" />
+  </a>
+  <a href="https://github.com/BetterDiscordBuilder/bdbuilder">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=BetterDiscordBuilder&repo=bdbuilder&theme=dark" />
   </a>
   <a href="https://github.com/Kyza/gsetw">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=Kyza&repo=gsetw&theme=dark" />
@@ -25,22 +28,13 @@
   <a href="https://github.com/Kyza/linux-like-windows-terminal">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=Kyza&repo=linux-like-windows-terminal&theme=dark" />
   </a>
-  <a href="https://github.com/kyza-betterdiscord/ShowAllMessageButtons">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=kyza-betterdiscord&repo=ShowAllMessageButtons&theme=dark" />
-  </a>
-  <a href="https://github.com/Kyza/Khub">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kyza&repo=Khub&theme=dark" />
-  </a>
-  <a href="https://github.com/Kyza/discord-devtools-filters">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kyza&repo=discord-devtools-filters&theme=dark" />
-  </a>
 </p>
 
 <h1 align="center">Other Cool Repos</h1>
 
 <p align="center">
-  <a href="https://github.com/rauenzi/BetterDiscordApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=rauenzi&repo=BetterDiscordApp&theme=dark" />
+  <a href="https://github.com/BetterDiscord/BetterDiscord">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=BetterDiscord&repo=BetterDiscord&theme=dark" />
   </a>
   <a href="https://github.com/Aliucord/Aliucord">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=Aliucord&repo=Aliucord&theme=dark" />
