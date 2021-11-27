@@ -33,6 +33,9 @@
 <h1 align="center">Other Cool Repos</h1>
 
 <p align="center">
+  <a href="https://github.com/kernel-mod">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=kernel-mod&repo=electron&theme=dark" />
+  </a>
   <a href="https://github.com/BetterDiscord/BetterDiscord">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=BetterDiscord&repo=BetterDiscord&theme=dark" />
   </a>
