@@ -8,7 +8,7 @@
 
 # 🛠️ Projects
 
-## CompendiumDevTools
+## Compendium DevTools
 
 <a href="https://github.com/CompendiumDevTools/devtools">
   <img src="https://github-readme-stats.vercel.app/api/pin?username=CompendiumDevTools&repo=devtools&theme=dark" />
