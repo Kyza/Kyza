@@ -10,7 +10,10 @@
 
 ## CompendiumDevTools
 
-<a href="https://github.com/CompendiumDevTools">
+<a href="https://github.com/CompendiumDevTools/devtools">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=CompendiumDevTools&repo=devtools&theme=dark" />
+</a>
+<a href="https://github.com/CompendiumDevTools/library">
   <img src="https://github-readme-stats.vercel.app/api/pin?username=CompendiumDevTools&repo=library&theme=dark" />
 </a>
 
