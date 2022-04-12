@@ -1,50 +1,58 @@
-<h1 align="center">Welcome</h1>
+# 🍀 Welcome
 
-<p align="center">
-<!--   <a href="https://discord.gg/c9ESSur"><img src="https://shields.io/discord/459014303224168449?label=discord&logo=discord&color=7289da" /></a> -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Kyza.Kyza" />
-</p>
+<a href="https://discord.gg/c9ESSur"><img src="https://shields.io/discord/459014303224168449?label=Discord&logo=discord&color=7289da" /></a>
+<img src="https://visitor-badge.glitch.me/badge?page_id=Kyza.Kyza" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyza&theme=dark&hide=['issues']&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyza&layout=compact&theme=dark" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Kyza&theme=dark&hide=['issues']&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyza&layout=compact&theme=dark" />
 
-<h1 align="center">My Cool Repos</h1>
+# 🛠️ Projects
 
-<p align="center">
-  <a href="https://github.com/Kyza/nests">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kyza&repo=nests&theme=dark" />
-  </a>
-  <a href="https://github.com/BetterDiscordBuilder/bdbuilder">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=BetterDiscordBuilder&repo=bdbuilder&theme=dark" />
-  </a>
-  <a href="https://github.com/Kyza/gsetw">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kyza&repo=gsetw&theme=dark" />
-  </a>
-  <a href="https://github.com/Kyza/AliucordPlugins">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kyza&repo=AliucordPlugins&theme=dark" />
-  </a>
-  <a href="https://github.com/Kyza/linux-like-windows-terminal">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Kyza&repo=linux-like-windows-terminal&theme=dark" />
-  </a>
-</p>
+## CompendiumDevTools
 
-<h1 align="center">Other Cool Repos</h1>
+<a href="https://github.com/CompendiumDevTools">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=CompendiumDevTools&repo=library&theme=dark" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/kernel-mod">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=kernel-mod&repo=electron&theme=dark" />
-  </a>
-  <a href="https://github.com/BetterDiscord/BetterDiscord">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=BetterDiscord&repo=BetterDiscord&theme=dark" />
-  </a>
-  <a href="https://github.com/Aliucord/Aliucord">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Aliucord&repo=Aliucord&theme=dark" />
-  </a>
-</p>
+## Kernel
 
-<hr />
+<a href="https://discord.gg/8mPTjTZ4SZ"><img src="https://shields.io/discord/891039687785996328?label=Discord&logo=discord&color=7289da" /></a>
+
+<a href="https://github.com/kernel-mod">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=kernel-mod&repo=electron&theme=dark" />
+</a>
+
+## Nests
+
+<a href="https://github.com/Kyza/nests">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Kyza&repo=nests&theme=dark" />
+</a>
+
+## Linux-Like Windows Terminal
+
+<a href="https://github.com/Kyza/linux-like-windows-terminal">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Kyza&repo=linux-like-windows-terminal&theme=dark" />
+</a>
+
+# 🫀 Projects I Like
+
+## BetterDiscord
+
+<a href="https://discord.gg/0Tmfo5ZbORCRqbAd"><img src="https://shields.io/discord/86004744966914048?label=Discord&logo=discord&color=7289da" /></a>
+
+<a href="https://github.com/BetterDiscord/BetterDiscord">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=BetterDiscord&repo=BetterDiscord&theme=dark" />
+</a>
+
+## Aliucord
+
+<a href="https://discord.gg/EsNDvBaHVU"><img src="https://shields.io/discord/811255666990907402?label=Discord&logo=discord&color=7289da" /></a>
+
+<a href="https://github.com/Aliucord/Aliucord">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Aliucord&repo=Aliucord&theme=dark" />
+</a>
+
+---
 
 <details>
   <summary>The Upside Down</summary>
