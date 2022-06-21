@@ -37,24 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin?username=Kyza&repo=linux-like-windows-terminal&theme=dark" />
 </a>
 
-# 🫀 Projects I Like
-
-## BetterDiscord
-
-<a href="https://discord.gg/0Tmfo5ZbORCRqbAd"><img src="https://shields.io/discord/86004744966914048?label=Discord&logo=discord&color=7289da" /></a>
-
-<a href="https://github.com/BetterDiscord/BetterDiscord">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=BetterDiscord&repo=BetterDiscord&theme=dark" />
-</a>
-
-## Aliucord
-
-<a href="https://discord.gg/EsNDvBaHVU"><img src="https://shields.io/discord/811255666990907402?label=Discord&logo=discord&color=7289da" /></a>
-
-<a href="https://github.com/Aliucord/Aliucord">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Aliucord&repo=Aliucord&theme=dark" />
-</a>
-
 ---
 
 <details>
