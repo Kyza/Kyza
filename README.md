@@ -25,6 +25,12 @@
   <img src="https://github-readme-stats.vercel.app/api/pin?username=kernel-mod&repo=electron&theme=dark" />
 </a>
 
+## Worst JSON Stringify
+
+<a href="https://github.com/Kyza/worst-json-stringify">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Kyza&repo=worst-json-stringify&theme=dark" />
+</a>
+
 ## Nests
 
 <a href="https://github.com/Kyza/nests">
