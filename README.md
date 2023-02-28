@@ -8,6 +8,12 @@
 
 # 🛠️ Projects
 
+## Unplugin Pomsky
+
+<a href="https://github.com/pomsky-lang/unplugin-pomsky">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=pomsky-lang&repo=unplugin-pomsky&theme=dark" />
+</a>
+
 ## Compendium DevTools
 
 <a href="https://github.com/CompendiumDevTools/devtools">
