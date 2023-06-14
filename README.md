@@ -1,6 +1,5 @@
 # 🍀 Welcome
 
-<a href="https://discord.gg/c9ESSur"><img src="https://shields.io/discord/459014303224168449?label=Discord&logo=discord&color=7289da" /></a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=Kyza.Kyza" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kyza&theme=dark&hide=['issues']&show_icons=true" />
@@ -24,8 +23,6 @@
 </a>
 
 ## Kernel
-
-<a href="https://discord.gg/8mPTjTZ4SZ"><img src="https://shields.io/discord/891039687785996328?label=Discord&logo=discord&color=7289da" /></a>
 
 <a href="https://github.com/kernel-mod">
   <img src="https://github-readme-stats.vercel.app/api/pin?username=kernel-mod&repo=electron&theme=dark" />
